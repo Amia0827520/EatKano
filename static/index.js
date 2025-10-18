@@ -613,7 +613,7 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
 
 
     w.getClickBeforeImage = function() {
-        $('#click-before-image').click();
+        $('#20240131222146_9629595.webp').click();
     }
 
     w.saveClickBeforeImage = function() {
@@ -628,7 +628,7 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
     }
 
     w.getClickAfterImage = function() {
-        $('#click-after-image').click();
+        $('#defaultz_17-03.jpg').click();
     }
 
     w.saveClickAfterImage = function() {
