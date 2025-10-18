@@ -190,7 +190,7 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             id: "end"
         });
         createjs.Sound.registerSound({
-            src: "./static/music/L.mp3",
+            src: "./static/music/YAMETE KUDASAI AHH !! _) (mp3cut.net).mp3",
             id: "tap"
         });
         gameRestart();
